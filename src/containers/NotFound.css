@@ -1,0 +1,10 @@
+.NotFound {
+    color: #fff;
+    padding-top: 100px;
+  font-size: 16px;
+  font-family:"Nunito Sans";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: red;
+  text-align: center;
+  background-color: rgb(0,0,0);
+    }
